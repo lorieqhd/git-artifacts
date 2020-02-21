@@ -1,5 +1,5 @@
 {
      "type": "github/file",
      "name": "manifests/demo.yml",
-     "reference": "https://github.com/lorieqhd/spin-kub-v2-demo.git"
+     "reference": "https://api.github.com/repos/spin-demo/..."
 }
