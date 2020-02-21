@@ -1,5 +1,5 @@
 {
      "type": "github/file",
-     "name": "art001.yml",
-     "reference": "https://api.github.com/repos/lorieqhd/git-artifacts/contents/art001.yml"
+     "name": "manifests/demo.yml",
+     "reference": "https://api.github.com/repos/demo/..."
 }
