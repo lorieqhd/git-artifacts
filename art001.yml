@@ -1,5 +1,5 @@
 {
-     "kind": "github"
+     "kind": "github",
      "type": "github/file",
      "name": "manifests/demo.yml",
      "reference": "https://github.com/lorieqhd/spin-kub-v2-demo.git"
